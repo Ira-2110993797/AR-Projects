@@ -4,4 +4,4 @@ Augmented Reality (AR) combines digital content with the physical world to impro
 
 
 
-   ! [Alt text](Assets/ar_image.jpeg)
+   ![Alt text](Assets/ar_image.jpeg)
