@@ -16,3 +16,12 @@ The popularity of such filters lies in their ability to engage users with creati
 
 
    ![Alt text](Assets/cr.jpeg)
+
+
+# Outlined
+The AR outline filter, available on Instagram, transforms everyday scenes by highlighting the contours of objects in the user's surroundings. Using advanced Augmented Reality (AR) technology, this filter detects and traces the edges of objects captured by the smartphone’s camera, creating a dynamic, neon-like outline effect that brings a futuristic and artistic flair to any environment. As users move their cameras, the filter continuously maps and outlines new objects in real-time, ensuring a fluid and engaging visual experience.
+
+To use this filter, users simply access it from Instagram's effects gallery or via a shared story featuring the effect. Once activated, the AR technology kicks in, scanning the live camera feed to identify and outline various objects within the frame. The result is a striking visual transformation where familiar surroundings are rendered in an abstract, glowing outline style, reminiscent of a digital sketch or a sci-fi aesthetic.
+
+This filter not only enhances visual storytelling by turning mundane settings into eye-catching, artistic backdrops but also encourages creativity and exploration. Users can capture and share these unique visuals in their Instagram stories, posts, or direct messages, adding a distinctive and modern twist to their content. The AR outline filter exemplifies how AR can redefine digital interaction, making ordinary moments extraordinary through innovative technology.
+
