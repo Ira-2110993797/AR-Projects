@@ -15,4 +15,4 @@ To use the Christmas hat filter, users simply select it from Instagram’s filte
 The popularity of such filters lies in their ability to engage users with creative and personalized content, fostering a sense of community and celebration. Instagram's AR filters, including the Christmas hat, are designed to be user-friendly and accessible, requiring no technical expertise to operate. This ease of use, combined with the fun and festive nature of the filter, encourages widespread participation and sharing, making it a staple in many users' holiday celebrations. The Christmas hat filter not only spreads joy but also exemplifies the potential of AR in enhancing everyday social media interactions with immersive and delightful experiences.
 
 
-                                ![Alt text](Assets/cr.jpeg)
+   ![Alt text](Assets/cr.jpeg)
